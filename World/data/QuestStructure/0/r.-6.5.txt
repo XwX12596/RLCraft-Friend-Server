@@ -1,0 +1,6 @@
+RLCraft_PlainsCamp,-3481,-3435,2600,2639
+RLCraft_DecentSpider,-3186,-3186,2624,2624
+RLCraft_UndergroundRuin2,-3191,-3184,2619,2629
+SmallWoodenCottage,-3238,-3230,2661,2672
+RLCraft_DecentSpider,-3089,-3089,2838,2838
+RLCraft_UndergroundRuin3,-3092,-3084,2836,2844

@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,-2317,-2309,1956,1964
+RLCraft_DecentZombie,-2531,-2531,1943,1943
+RLCraft_UndergroundRuin3,-2534,-2526,1937,1945
+BigClockworkSite,-2357,-2312,1918,1953
+BlazeSpawnerCrystal,-2436,-2430,1916,1922
+RLCraft_UndergroundFarm,-2141,-2099,1973,2016
+DinosaurSkeleton,-2226,-2180,1967,1976
+RLCraft_DecentWitch,-2257,-2257,1834,1834
+RLCraft_UndergroundRuin2,-2262,-2252,1832,1839
+StonePlantMound,-2276,-2271,1792,1797
+P_WitchDungeon,-2516,-2499,1717,1751

@@ -1,0 +1,3 @@
+StonePlantMound1,1856,1862,-4092,-4086
+RLCraft_DecentCaveSpider,2034,2034,-4026,-4026
+RLCraft_UndergroundRuin2,2032,2039,-4031,-4021

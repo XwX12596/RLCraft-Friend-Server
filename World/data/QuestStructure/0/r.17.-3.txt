@@ -1,0 +1,15 @@
+StoneLeafMound,8952,8959,-1576,-1567
+StoneBoulder,8881,8890,-1545,-1536
+StonePlantMound4,8870,8877,-1551,-1544
+StonePlantMound1,8836,8842,-1545,-1539
+P_WitchDungeon,8784,8801,-1582,-1548
+StonePlantMound4,9073,9080,-1598,-1591
+ThreeTowers,8948,8979,-1675,-1643
+P_VillageLibrary,8928,8947,-1660,-1644
+P_VillageFarmhouse,8948,8960,-1690,-1678
+VillageWoodMill,8918,8934,-1688,-1675
+VillageMarketplace,8918,8932,-1721,-1707
+VillageTriplets,8882,8896,-1690,-1676
+VillageTriplets,8882,8896,-1690,-1676
+P_TreeDungeon,8961,9003,-1729,-1684
+StoneLeafMound,8931,8940,-1759,-1752

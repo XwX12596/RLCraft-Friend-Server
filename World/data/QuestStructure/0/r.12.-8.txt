@@ -1,0 +1,9 @@
+DinosaurSkull,6444,6455,-4209,-4190
+RLCraft_BasicCaveSpider,6580,6580,-4147,-4147
+RLCraft_UndergroundRuin1,6577,6586,-4153,-4144
+RLCraft_BasicCaveSpider,6535,6535,-4270,-4270
+RLCraft_UndergroundRuin1,6532,6541,-4276,-4267
+StonePlantMound4,6333,6340,-4239,-4232
+StonePlantMound2,6419,6431,-4331,-4318
+StonePlantBoulder,6280,6290,-4260,-4250
+StonePlantBoulder,6222,6232,-4286,-4276

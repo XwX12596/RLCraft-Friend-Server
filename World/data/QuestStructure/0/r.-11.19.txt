@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,-6135,-6127,9975,9983
+RLCraft_DecentCaveSpider,-6098,-6098,10111,10111
+RLCraft_UndergroundRuin2,-6103,-6096,10106,10116
+PeacefulCrypt,-6058,-6042,9961,9985

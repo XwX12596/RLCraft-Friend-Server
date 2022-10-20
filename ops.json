@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "80b8e133-4ea9-3bdf-916b-0bfe83f65157",
+    "name": "MAKURO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "68648dde-38a7-3094-b354-ff09b12582b8",
+    "name": "qiankanshan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "991da8b8-3b98-37a4-be89-a9d0275b3590",
+    "name": "X_w_X",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "62441aa4-7b78-3044-903c-81ccf887feea",
+    "name": "ZY_forever",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "aebd201f-5436-302a-94a2-bbe426161f1a",
+    "name": "ExplosionRam",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

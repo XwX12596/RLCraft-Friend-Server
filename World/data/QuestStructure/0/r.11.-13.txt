@@ -1,0 +1,4 @@
+P_TreeDungeon,5825,5867,-6679,-6634
+WoodThornBig,5740,5753,-6671,-6658
+StonePlantMound1,5666,5672,-6676,-6670
+DesertHut,5897,5907,-6771,-6762

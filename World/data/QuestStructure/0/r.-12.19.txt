@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,-6240,-6232,9990,9998
+RLCraft_FriendlyOutpost,-6339,-6300,9957,10025
+StoneIceBoulder,-6329,-6319,10078,10087
+DinosaurSkull,-6290,-6271,10106,10117
+StoneIceBoulder1,-6357,-6347,9928,9938
+StoneIceBoulder,-6397,-6388,10069,10079
+StoneIceBoulder1,-6270,-6260,10168,10178
+BlazeSpawnerCrystal,-6213,-6207,9903,9909
+StoneIceBoulder3,-6261,-6251,10194,10204
+RLCraft_DecentSkeleton,-6418,-6418,9929,9929
+RLCraft_UndergroundRuin2,-6420,-6413,9924,9934
+RLCraft_DecentSkeleton,-6372,-6372,9855,9855
+RLCraft_UndergroundRuin3,-6375,-6367,9849,9857
+StoneIceBoulder1,-6423,-6413,9885,9895
+RLCraft_RuinsParkour,-6416,-6324,9820,9920

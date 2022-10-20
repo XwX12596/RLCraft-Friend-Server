@@ -1,0 +1,7 @@
+P_WitchDungeon,8246,8280,3361,3378
+RLCraft_FriendlyOutpost,8194,8233,3254,3322
+RLCraft_SmallUndergroundSkeleton,8521,8529,3249,3257
+SmallAbandonedMine,8325,8350,3265,3280
+RLCraft_DecentCaveSpider,8336,8336,3270,3270
+RLCraft_UndergroundRuin3,8333,8341,3268,3276
+UndergroundCrypt,8463,8491,3521,3535

@@ -1,0 +1,5 @@
+StoneIceBoulder1,-6177,-6167,1030,1040
+PeacefulCrypt,-6160,-6144,1081,1105
+RLCraft_BasicZombie,-6156,-6156,1209,1209
+RLCraft_UndergroundRuin1,-6162,-6153,1206,1215
+StoneIceBoulder3,-6185,-6175,1415,1425

@@ -1,0 +1,5 @@
+StonePlantMound4,3636,3643,1276,1283
+RLCraft_DecentSkeleton,3769,3769,1204,1204
+RLCraft_UndergroundRuin2,3764,3774,1202,1209
+P_IslandCity,3694,4028,1075,1381
+UndergroundCultChamber,3818,3850,1498,1540

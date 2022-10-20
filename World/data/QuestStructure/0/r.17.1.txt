@@ -1,0 +1,7 @@
+StonePlantMound4,9176,9183,517,524
+StonePlantMound,9172,9177,528,533
+StonePlantBoulder,9134,9144,567,577
+StonePlantMound4,9151,9158,620,627
+StoneBoulder,9094,9103,649,658
+ShrineSmallWater,8972,8980,510,518
+StonePlantMound4,9151,9158,737,744

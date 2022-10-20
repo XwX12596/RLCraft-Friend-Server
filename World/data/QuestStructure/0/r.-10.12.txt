@@ -1,0 +1,4 @@
+ShrineSmallFire,-5187,-5177,6386,6396
+P_LargeShip,-5307,-5247,6470,6488
+RLCraft_UndergroundFarm,-5351,-5308,6348,6390
+StonePlantMound1,-5132,-5126,6285,6291

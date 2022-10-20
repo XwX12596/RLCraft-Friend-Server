@@ -1,0 +1,8 @@
+ShrineSmallAir,6617,6625,3702,3710
+RLCraft_DecentWitch,6474,6474,3801,3801
+RLCraft_UndergroundRuin3,6471,6479,3799,3807
+RLCraft_SmallUndergroundSkeleton,6460,6468,3880,3888
+RLCraft_DecentSkeleton,6372,6372,3838,3838
+RLCraft_UndergroundRuin3,6367,6375,3832,3840
+RLCraft_UndergroundFarm,6326,6368,3966,4009
+RLCraft_UndergroundFarm,6347,6389,3942,3985

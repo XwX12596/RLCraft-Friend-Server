@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,-8244,-8244,7120,7120
+RLCraft_UndergroundRuin3,-8250,-8242,7115,7123
+BlazeSpawnerCrystal,-8304,-8298,7030,7036
+UndergroundCrypt,-8225,-8211,6907,6935
+StonePlantMound1,-8358,-8352,6853,6859
+StonePlantMound1,-8393,-8387,6889,6895
+StoneBoulder,-8371,-8362,6857,6866

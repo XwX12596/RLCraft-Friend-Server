@@ -1,0 +1,6 @@
+StonePlantBoulder,1757,1767,7084,7094
+StonePlantMound,1869,1874,7104,7109
+RLCraft_DecentSpider,1934,1934,7142,7142
+RLCraft_UndergroundRuin3,1928,1936,7139,7147
+ShrineSmallWater,1937,1945,7045,7053
+StonePlantBoulder,1868,1878,7052,7062

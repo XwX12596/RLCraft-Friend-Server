@@ -1,0 +1,2 @@
+ShrineSmallFire,-5581,-5571,-5907,-5897
+VillageForgeLarge,-5552,-5536,-5788,-5776

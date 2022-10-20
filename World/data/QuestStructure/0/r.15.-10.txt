@@ -1,0 +1,4 @@
+SpiderPit,8104,8113,-5494,-5484
+StoneBoulder,8095,8104,-5539,-5530
+StonePlantMound4,8097,8104,-5522,-5515
+StonePlantMound1,8079,8085,-5576,-5570

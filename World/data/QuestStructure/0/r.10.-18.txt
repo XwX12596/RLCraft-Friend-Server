@@ -1,0 +1,4 @@
+DesertWatchtower,5243,5253,-9693,-9683
+RLCraft_SmallUndergroundSkeleton,5214,5222,-9714,-9706
+P_LargeShip,5204,5222,-9515,-9455
+DesertWatchtower,5361,5371,-9629,-9619

@@ -1,0 +1,5 @@
+DinosaurSkull,2071,2082,7109,7128
+RLCraft_DecentSpider,2094,2094,7003,7003
+RLCraft_UndergroundRuin3,2088,2096,6998,7006
+ClayWaterMound1,2118,2129,6985,6995
+ShrineSmallAir,2132,2140,7136,7144

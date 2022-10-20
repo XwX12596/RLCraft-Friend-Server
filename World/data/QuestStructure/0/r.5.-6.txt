@@ -1,0 +1,15 @@
+RLCraft_BasicWitch,2931,2931,-3156,-3156
+RLCraft_UndergroundRuin1,2928,2937,-3162,-3153
+DinosaurSkeleton,2920,2966,-3158,-3149
+SmallOutpost,2793,2823,-3164,-3142
+SmallClockworkSite,2970,2989,-3087,-3065
+StonePlantMound4,2971,2978,-3246,-3239
+MeteorSite,2754,2769,-3092,-3062
+StonePlantMound3,2990,2999,-3261,-3250
+SmallWoodenCottage,3033,3044,-3215,-3207
+RLCraft_BasicSkeleton,3036,3036,-3282,-3282
+RLCraft_UndergroundRuin1,3033,3042,-3285,-3276
+StonePlantMound4,3046,3053,-3269,-3262
+RLCraft_DecentSkeleton,2731,2731,-3268,-3268
+RLCraft_UndergroundRuin3,2726,2734,-3270,-3262
+DesertWatchtower,2665,2675,-3140,-3130

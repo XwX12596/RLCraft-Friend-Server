@@ -1,0 +1,15 @@
+StoneLeafMound,-6073,-6066,4066,4075
+SmallWoodenCottage1,-6042,-6031,4056,4062
+SmallAbandonedMine,-6056,-6041,4005,4030
+StonePlantBoulder,-6048,-6038,3974,3984
+RLCraft_DecentWitch,-5950,-5950,4020,4020
+RLCraft_UndergroundRuin3,-5956,-5948,4017,4025
+StoneBoulder,-5996,-5987,3953,3962
+ShrineSmallAir,-5941,-5933,3947,3955
+P_WitchDungeon,-5899,-5882,3935,3969
+StonePlantMound2,-6032,-6020,3859,3872
+StonePlantMound,-6017,-6012,3846,3851
+StonePlantBoulder,-6112,-6102,3840,3850
+ShrineSmallAir,-6058,-6050,3823,3831
+WoodThorn,-6088,-6077,3814,3825
+DinosaurSkeleton,-6071,-6062,3766,3812

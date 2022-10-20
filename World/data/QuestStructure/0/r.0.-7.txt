@@ -1,0 +1,4 @@
+StonePlantMound4,-256,-249,-3684,-3677
+RLCraft_BasicWitch,-418,-418,-3649,-3649
+RLCraft_UndergroundRuin1,-424,-415,-3652,-3643
+StonePlantMound3,124,135,-3589,-3580

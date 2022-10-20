@@ -1,0 +1,3 @@
+StonePlantBoulder,-5089,-5079,418,428
+AbandonedWoodTower,-5083,-5053,347,383
+StonePlantMound3,-5104,-5095,325,336

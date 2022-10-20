@@ -1,0 +1,3 @@
+DinosaurSkeleton,-3062,-3016,1375,1384
+ShrineSmallAir,-2907,-2899,1512,1520
+DinosaurSkeleton,-2836,-2827,1499,1545

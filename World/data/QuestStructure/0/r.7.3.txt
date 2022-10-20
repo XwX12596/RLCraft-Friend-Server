@@ -1,0 +1,5 @@
+RLCraft_DecentSpider,3640,3640,1928,1928
+RLCraft_UndergroundRuin3,3634,3642,1925,1933
+RLCraft_BasicSpider,3592,3592,1612,1612
+RLCraft_UndergroundRuin1,3586,3595,1609,1618
+ShrineSmallWater,3682,3690,1660,1668

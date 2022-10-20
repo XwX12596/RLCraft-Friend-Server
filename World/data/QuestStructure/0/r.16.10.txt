@@ -1,0 +1,5 @@
+ClayWaterMound1,8255,8265,5534,5545
+MysticalTree,8201,8217,5448,5463
+StoneLeafMound,8303,8312,5368,5375
+DinosaurSkeleton,8351,8360,5340,5386
+UndergroundCrypt,8389,8417,5375,5389

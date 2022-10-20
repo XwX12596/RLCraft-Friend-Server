@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,8133,8141,-5737,-5729
+RLCraft_DecentSkeleton,8108,8108,-5643,-5643
+RLCraft_UndergroundRuin3,8102,8110,-5648,-5640
+RLCraft_SmallUndergroundSkeleton,8112,8120,-5706,-5698
+RLCraft_BasicSkeleton,8179,8179,-5861,-5861
+RLCraft_UndergroundRuin1,8176,8185,-5864,-5855

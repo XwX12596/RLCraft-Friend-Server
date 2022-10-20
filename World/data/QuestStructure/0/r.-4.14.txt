@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-2321,-2313,7444,7452
+OldWatchtower,-2339,-2326,7500,7512
+RLCraft_SmallUndergroundSkeleton,-2311,-2303,7526,7534
+SmallAbandonedMine,-2113,-2088,7525,7540
+RLCraft_SmallUndergroundSkeleton,-2109,-2101,7534,7542
+StoneIceBoulder,-2054,-2044,7505,7514

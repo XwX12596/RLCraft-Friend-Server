@@ -1,0 +1,4 @@
+StonePlantMound3,2064,2073,8013,8024
+OldWatchtower,2048,2060,7972,7985
+RLCraft_SmallUndergroundSkeleton,2144,2152,7946,7954
+OldWatchtower,2089,2102,7887,7899

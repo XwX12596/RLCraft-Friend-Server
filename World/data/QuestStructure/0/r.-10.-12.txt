@@ -1,0 +1,12 @@
+RLCraft_Vineyard,-5412,-5384,-6556,-6536
+P_VillageLibrary,-5386,-5367,-6584,-6568
+VillageForgeLarge,-5399,-5387,-6573,-6557
+VillageInn,-5434,-5407,-6583,-6563
+P_VillageFarmhouse,-5455,-5443,-6586,-6574
+SeasonsGreenhouse,-5364,-5352,-6604,-6594
+VillageMarketplace,-5431,-5417,-6556,-6542
+StonePlantMound,-5397,-5392,-6496,-6491
+ThreeTowers,-5336,-5305,-6629,-6597
+StonePlantBoulder,-5319,-5309,-6575,-6565
+VillageGuardTower,-5425,-5413,-6641,-6629
+VillageHouseRich,-5410,-5395,-6642,-6623

@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,7853,7861,-8280,-8272
+RLCraft_DecentSpider,8041,8041,-8249,-8249
+RLCraft_UndergroundRuin2,8036,8043,-8254,-8244
+StonePlantMound,7924,7929,-8408,-8403
+StoneBoulder,7780,7789,-8325,-8316
+RLCraft_SmallUndergroundSkeleton,7950,7958,-8405,-8397
+RLCraft_DecentSpider,8049,8049,-8343,-8343
+RLCraft_UndergroundRuin3,8047,8055,-8346,-8338
+StonePlantMound3,7782,7793,-8424,-8415
+StonePlantBoulder,7890,7900,-8442,-8432
+StonePlantBoulder,7867,7877,-8439,-8429
+ShrineSmallFire,7750,7760,-8433,-8423
+CuboneSkull,8052,8113,-8282,-8224

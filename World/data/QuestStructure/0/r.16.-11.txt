@@ -1,0 +1,7 @@
+StonePlantMound3,8255,8264,-5674,-5663
+StonePlantMound3,8232,8243,-5702,-5693
+SmallWoodenCottage,8303,8311,-5707,-5696
+RLCraft_BasicZombie,8376,8376,-5787,-5787
+RLCraft_UndergroundRuin1,8373,8382,-5793,-5784
+StonePlantMound,8222,8227,-5813,-5808
+StoneBoulder,8230,8239,-5837,-5828

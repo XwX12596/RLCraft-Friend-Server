@@ -1,0 +1,4 @@
+SmallWoodenCottage2,5032,5040,-6810,-6802
+SmallWoodenCottage1,4844,4850,-6801,-6790
+StonePlantMound1,5056,5062,-6823,-6817
+SmallWoodenCottage1,5053,5064,-6830,-6824

@@ -1,0 +1,16 @@
+RLCraft_DecentSkeleton,-6314,-6314,4083,4083
+RLCraft_UndergroundRuin2,-6319,-6312,4078,4088
+StonePlantBoulder,-6154,-6144,3924,3934
+StonePlantMound,-6206,-6201,3920,3925
+StonePlantMound2,-6198,-6186,3883,3896
+StonePlantMound2,-6157,-6144,3848,3860
+BlazeSpawnerCrystal,-6148,-6142,3705,3711
+StonePlantMound,-6228,-6223,3848,3853
+StonePlantMound3,-6226,-6215,3866,3875
+StonePlantBoulder,-6243,-6233,3899,3909
+StonePlantBoulder,-6298,-6288,3847,3857
+StonePlantBoulder,-6274,-6264,3956,3966
+DinosaurSkeleton,-6325,-6316,3830,3876
+RLCraft_SmallUndergroundSkeleton,-6347,-6339,3769,3777
+StonePlantMound2,-6356,-6344,3713,3726
+StonePlantMound2,-6401,-6388,3743,3755

@@ -1,0 +1,14 @@
+MonolythHoly,-3232,-3218,1409,1423
+RLCraft_SmallUndergroundSkeleton,-3278,-3270,1387,1395
+ShrineSmallFire,-3474,-3464,1391,1401
+RLCraft_DecentZombie,-3250,-3250,1222,1222
+RLCraft_UndergroundRuin3,-3252,-3244,1219,1227
+RLCraft_DecentSpider,-3570,-3570,1392,1392
+RLCraft_UndergroundRuin3,-3572,-3564,1389,1397
+MeteorSite,-3534,-3519,1079,1109
+RLCraft_SmallUndergroundSkeleton,-3564,-3556,1059,1067
+RLCraft_SmallUndergroundSkeleton,-3377,-3369,1082,1090
+RLCraft_DecentSkeleton,-3222,-3222,1064,1064
+RLCraft_UndergroundRuin2,-3227,-3220,1059,1069
+P_SmallShip,-3206,-3186,1170,1176
+ShrineSmallFire,-3134,-3124,1179,1189

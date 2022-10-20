@@ -1,0 +1,7 @@
+RLCraft_UndergroundFarm,-2462,-2420,-8815,-8772
+VillageForgeLarge,-2473,-2457,-8944,-8932
+RLCraft_Vineyard,-2474,-2454,-8930,-8902
+RLCraft_SmallUndergroundSkeleton,-2508,-2500,-8797,-8789
+P_Village2Story,-2453,-2447,-8968,-8955
+VillageGuardTower,-2470,-2458,-8979,-8967
+P_VillageFarmhouse,-2504,-2492,-8979,-8967

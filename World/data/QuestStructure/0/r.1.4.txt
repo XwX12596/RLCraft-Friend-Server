@@ -1,0 +1,12 @@
+SmallWoodenCottage2,980,988,2552,2560
+RLCraft_BasicZombie,968,968,2547,2547
+RLCraft_UndergroundRuin1,965,974,2544,2553
+StonePlantBoulder,965,975,2480,2490
+StoneLeafMound,892,899,2402,2411
+StonePlantMound3,853,862,2304,2315
+UndergroundTreeoid,759,782,2486,2512
+DinosaurSkeleton,756,765,2389,2435
+StoneLeafMound,979,986,2299,2308
+RLCraft_BasicSkeleton,1001,1001,2292,2292
+RLCraft_UndergroundRuin1,998,1007,2289,2298
+StonePlantBoulder,785,795,2310,2320

@@ -1,0 +1,7 @@
+ShrineSmallFire,2638,2648,8634,8644
+RLCraft_UndergroundFarm,2673,2715,8410,8453
+RLCraft_DecentCaveSpider,2739,2739,8365,8365
+RLCraft_UndergroundRuin2,2734,2744,8363,8370
+DinosaurSkeleton,2594,2603,8304,8350
+BlazeSpawnerCrystal,2667,2673,8312,8318
+ShrineSmallAir,2601,2609,8283,8291

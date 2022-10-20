@@ -1,0 +1,8 @@
+MeteorSite,-784,-754,-5886,-5871
+RLCraft_SmallUndergroundSkeleton,-893,-885,-5854,-5846
+RLCraft_SmallUndergroundSkeleton,-705,-697,-6015,-6007
+RLCraft_SmallUndergroundSkeleton,-998,-990,-5947,-5939
+RLCraft_PlainsCamp,-729,-690,-6083,-6037
+ShrineSmallFire,-940,-930,-5790,-5780
+RLCraft_FriendlyOutpost,-981,-913,-6120,-6081
+ShrineSmallWater,-942,-934,-5674,-5666

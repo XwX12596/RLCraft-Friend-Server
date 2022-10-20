@@ -1,0 +1,13 @@
+MeteorSite,2822,2852,-3073,-3058
+RLCraft_SmallUndergroundSkeleton,3050,3058,-3044,-3036
+MeteorSite,2739,2769,-3026,-3011
+MysticalTree1,2839,2850,-2953,-2940
+StonePlantMound4,2938,2945,-2941,-2934
+BlazeSpawnerCrystal,2624,2630,-2847,-2841
+P_VillageHouse,2579,2590,-2752,-2743
+VillageWoodMill,2614,2630,-2792,-2779
+VillageTriplets,2634,2648,-2794,-2780
+RLCraft_Vineyard,2644,2664,-2823,-2795
+P_VillageFarmhouse,2590,2602,-2771,-2759
+RLCraft_SmallUndergroundSkeleton,2576,2584,-2607,-2599
+RLCraft_SmallUndergroundSkeleton,2748,2756,-2617,-2609

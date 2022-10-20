@@ -1,0 +1,10 @@
+StoneMazePathBig,4587,4595,-5103,-5095
+StoneMazePathBig,4599,4607,-5100,-5092
+StoneMazeShootingRange,4602,4610,-5106,-5101
+StoneMazePath,4596,4598,-5097,-5095
+StoneMazeEndChest,4602,4604,-5109,-5107
+StoneMazePath,4602,4604,-5091,-5089
+StoneMazePath,4596,4598,-5100,-5098
+StoneMazeEndChest,4602,4604,-5088,-5086
+StoneMazeSmall,4587,4610,-5109,-5086
+ShrineSmallFire,4577,4587,-5032,-5022

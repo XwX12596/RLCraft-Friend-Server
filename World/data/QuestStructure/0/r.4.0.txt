@@ -1,0 +1,11 @@
+RLCraft_DecentCaveSpider,2411,2411,42,42
+RLCraft_UndergroundRuin3,2405,2413,39,47
+P_SeasidePort,2362,2390,126,151
+ShrineSmallFire,2307,2317,117,127
+DesertHut,2407,2417,197,206
+RLCraft_DecentZombie,2334,2334,218,218
+RLCraft_UndergroundRuin3,2329,2337,216,224
+RLCraft_DecentCaveSpider,2296,2296,43,43
+RLCraft_UndergroundRuin3,2290,2298,40,48
+ThreeTowers,2180,2211,280,312
+WoodWallRemains,2304,2312,-36,-8

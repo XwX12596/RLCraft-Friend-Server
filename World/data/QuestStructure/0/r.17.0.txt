@@ -1,0 +1,11 @@
+StonePlantMound3,9196,9205,420,431
+UndergroundCultChamber,9173,9215,401,433
+RLCraft_BasicSkeleton,9189,9189,370,370
+RLCraft_UndergroundRuin1,9186,9195,367,376
+StonePlantMound3,9140,9151,433,442
+RLCraft_BasicCaveSpider,9140,9140,402,402
+RLCraft_UndergroundRuin1,9137,9146,399,408
+StonePlantMound3,9145,9156,246,255
+ShrineSmallAir,9065,9073,426,434
+ShrineSmallAir,9069,9077,350,358
+UndergroundCultChamber,8951,8983,429,471

@@ -1,0 +1,4 @@
+P_LargeShip,1180,1198,5365,5425
+RLCraft_DecentSpider,1181,1181,5460,5460
+RLCraft_UndergroundRuin2,1176,1183,5455,5465
+ShrineSmallAir,1450,1458,5206,5214

@@ -1,0 +1,12 @@
+StoneLeafMound,-4612,-4605,1460,1469
+StonePlantMound1,-4686,-4680,1091,1097
+RLCraft_BasicSkeleton,-4702,-4702,1053,1053
+RLCraft_UndergroundRuin1,-4705,-4696,1050,1059
+FallenPalmTree,-4957,-4947,1144,1148
+StonePlantMound,-5055,-5050,1125,1130
+StoneBoulder,-5079,-5070,1143,1152
+RLCraft_DecentSkeleton,-5099,-5099,1221,1221
+RLCraft_UndergroundRuin2,-5104,-5097,1216,1226
+ShrineSmallEarth,-5120,-5108,1222,1234
+RLCraft_BasicCaveSpider,-5100,-5100,1281,1281
+RLCraft_UndergroundRuin1,-5106,-5097,1278,1287

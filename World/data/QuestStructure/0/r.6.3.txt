@@ -1,0 +1,15 @@
+RLCraft_DecentWitch,3522,3522,1894,1894
+RLCraft_UndergroundRuin2,3517,3527,1892,1899
+RLCraft_BasicSpider,3543,3543,1889,1889
+RLCraft_UndergroundRuin1,3537,3546,1883,1892
+RLCraft_DecentSpider,3533,3533,1796,1796
+RLCraft_UndergroundRuin3,3530,3538,1790,1798
+ShrineSmallFire,3483,3493,2029,2039
+BlazeSpawnerCrystal,3260,3266,2036,2042
+RLCraft_DecentSkeleton,3449,3449,1661,1661
+RLCraft_UndergroundRuin2,3444,3454,1659,1666
+P_SmallShip,3560,3580,1667,1673
+RLCraft_SmallUndergroundSkeleton,3148,3156,1718,1726
+RLCraft_BasicZombie,3091,3091,1776,1776
+RLCraft_UndergroundRuin1,3085,3094,1773,1782
+RLCraft_PlainsCamp,3103,3142,1533,1579

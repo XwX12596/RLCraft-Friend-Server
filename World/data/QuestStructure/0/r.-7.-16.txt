@@ -1,0 +1,3 @@
+ShrineSmallFire,-3656,-3646,-8465,-8455
+RLCraft_BasicSkeleton,-3584,-3584,-8490,-8490
+RLCraft_UndergroundRuin1,-3590,-3581,-8493,-8484

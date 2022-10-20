@@ -1,0 +1,3 @@
+RLCraft_BasicSkeleton,4644,4644,-5059,-5059
+RLCraft_UndergroundRuin1,4641,4650,-5062,-5053
+StoneMazePath,4608,4610,-5097,-5095

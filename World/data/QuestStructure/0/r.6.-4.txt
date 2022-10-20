@@ -1,0 +1,14 @@
+StoneLeafMound,3280,3287,-2515,-2506
+ShrineSmallAir,3295,3303,-2562,-2554
+StoneBoulder,3327,3336,-2459,-2450
+RLCraft_BasicSpider,3230,3230,-2494,-2494
+RLCraft_UndergroundRuin1,3227,3236,-2497,-2488
+StoneBoulder,3119,3128,-2543,-2534
+SeasonsGreenhouse,3409,3419,-2501,-2489
+RLCraft_NetherPortal2_Felix,3168,3197,-2519,-2477
+VillageTriplets,3446,3460,-2513,-2499
+P_RuinedHouse,3292,3317,-2399,-2382
+P_Village2Story,3446,3452,-2558,-2545
+VillageWoodMill,3452,3465,-2538,-2522
+RLCraft_BasicZombie,3168,3168,-2384,-2384
+RLCraft_UndergroundRuin1,3162,3171,-2387,-2378

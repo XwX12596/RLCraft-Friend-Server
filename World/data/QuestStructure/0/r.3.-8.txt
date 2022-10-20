@@ -1,0 +1,2 @@
+ShrineSmallAir,1866,1874,-4389,-4381
+StonePlantMound1,1832,1838,-4119,-4113

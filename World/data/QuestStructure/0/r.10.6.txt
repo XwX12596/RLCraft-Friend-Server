@@ -1,0 +1,15 @@
+DinosaurSkeleton,5258,5267,3102,3148
+RLCraft_SmallUndergroundSkeleton,5220,5228,3180,3188
+P_Tent,5131,5140,3104,3113
+RLCraft_DecentZombie,5165,5165,3364,3364
+RLCraft_UndergroundRuin3,5159,5167,3359,3367
+StoneIceBoulder1,5346,5356,3218,3228
+StoneIceBoulder2,5383,5392,3379,3388
+UndergroundCultChamber,5424,5456,3309,3351
+StoneIceBoulder3,5440,5450,3186,3196
+StoneIceBoulder1,5467,5477,3068,3078
+DinosaurSkull,5490,5501,3204,3223
+StoneIceBoulder1,5505,5515,3072,3082
+RLCraft_BasicWitch,5527,5527,3094,3094
+RLCraft_UndergroundRuin1,5524,5533,3091,3100
+ShrineSmallAir,5588,5596,3123,3131

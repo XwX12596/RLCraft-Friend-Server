@@ -1,0 +1,3 @@
+MeteorSite,-1446,-1416,8255,8270
+StoneIceBoulder2,-1371,-1362,8195,8204
+StoneIceBoulder2,-1350,-1341,8251,8260

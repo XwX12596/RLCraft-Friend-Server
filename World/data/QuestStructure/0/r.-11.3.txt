@@ -1,0 +1,2 @@
+ShrineSmallFire,-6064,-6054,1562,1572
+DinosaurSkeleton,-6128,-6082,1568,1577

@@ -1,0 +1,2 @@
+RLCraft_DecentSkeleton,-5841,-5841,2746,2746
+RLCraft_UndergroundRuin3,-5843,-5835,2741,2749

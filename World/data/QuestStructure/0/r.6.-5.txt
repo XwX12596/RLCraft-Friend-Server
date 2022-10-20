@@ -1,0 +1,10 @@
+StoneLeafMound,3307,3314,-2602,-2593
+SmallAbandonedMine,3344,3359,-2586,-2561
+RLCraft_SmallUndergroundSkeleton,3144,3152,-2619,-2611
+VillageForgeLarge,3400,3416,-2573,-2561
+StonePlantMound2,3420,3432,-2569,-2556
+RLCraft_PlainsCamp,3178,3224,-2590,-2551
+SmallWoodenCottage2,3426,3434,-2611,-2603
+SmallWoodenCottage2,3284,3292,-2680,-2672
+StonePlantMound3,3199,3210,-2647,-2638
+StonePlantMound4,3445,3452,-2667,-2660

@@ -1,0 +1,2 @@
+RLCraft_DecentSkeleton,1230,1230,-1932,-1932
+RLCraft_UndergroundRuin2,1228,1235,-1937,-1927

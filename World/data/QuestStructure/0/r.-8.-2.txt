@@ -1,0 +1,13 @@
+ThreeTowers,-4314,-4282,-1328,-1297
+P_VillageFarmhouse,-4330,-4318,-1328,-1316
+VillageMarketplace,-4293,-4279,-1350,-1336
+P_Village2Story,-4274,-4261,-1328,-1322
+VillageLargeLibrary,-4265,-4246,-1351,-1331
+RLCraft_Vineyard,-4284,-4264,-1386,-1358
+P_VillageLibrary,-4312,-4293,-1386,-1370
+VillageWoodMill,-4349,-4336,-1386,-1370
+SeasonsGreenhouse,-4314,-4302,-1414,-1404
+RLCraft_BasicZombie,-4397,-4397,-1156,-1156
+RLCraft_UndergroundRuin1,-4403,-4394,-1159,-1150
+P_WizardTower,-4452,-4422,-1406,-1376
+StonePlantMound2,-4462,-4450,-1497,-1484

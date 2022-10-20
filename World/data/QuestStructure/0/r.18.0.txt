@@ -1,0 +1,9 @@
+StonePlantMound3,9211,9222,421,430
+StoneBoulder,9298,9307,437,446
+SmallFortRuins,9235,9267,462,492
+StonePlantMound1,9306,9312,468,474
+ClayWaterMound,9347,9354,367,375
+StonePlantMound3,9387,9396,433,444
+StonePlantMound4,9350,9357,250,257
+StoneBoulder,9252,9261,207,216
+StonePlantMound2,9391,9404,199,211

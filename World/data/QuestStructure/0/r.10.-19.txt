@@ -1,0 +1,2 @@
+P_DesertTemple,5220,5269,-9758,-9708
+RLCraft_SmallUndergroundSkeleton,5209,5217,-9779,-9771

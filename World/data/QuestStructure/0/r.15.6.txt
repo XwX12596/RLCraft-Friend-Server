@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,8187,8195,3415,3423
+UndergroundCrypt,8170,8184,3245,3273

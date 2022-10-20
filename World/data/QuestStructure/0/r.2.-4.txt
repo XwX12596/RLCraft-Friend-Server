@@ -1,0 +1,11 @@
+UndergroundCultChamber,1026,1058,-2576,-2534
+StonePlantMound,1090,1095,-2317,-2312
+StonePlantMound4,1201,1208,-2362,-2355
+StonePlantMound,1226,1231,-2277,-2272
+StonePlantMound4,1240,1247,-2283,-2276
+RLCraft_BasicZombie,1385,1385,-2249,-2249
+RLCraft_UndergroundRuin1,1379,1388,-2255,-2246
+ShrineSmallFire,1388,1398,-2157,-2147
+RLCraft_DecentSpider,1411,1411,-2478,-2478
+RLCraft_UndergroundRuin3,1409,1417,-2483,-2475
+UndergroundCrypt,1216,1230,-2565,-2537

@@ -1,0 +1,6 @@
+StonePlantMound2,8070,8083,-9219,-9207
+RLCraft_BasicSpider,7962,7962,-9092,-9092
+RLCraft_UndergroundRuin1,7956,7965,-9095,-9086
+RLCraft_BasicWitch,8098,8098,-9134,-9134
+RLCraft_UndergroundRuin1,8092,8101,-9140,-9131
+ShrineSmallFire,7908,7918,-9088,-9078

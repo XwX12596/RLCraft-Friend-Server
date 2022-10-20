@@ -1,0 +1,3 @@
+ShrineSmallFire,-3041,-3031,2754,2764
+RLCraft_BasicWitch,-2925,-2925,2828,2828
+RLCraft_UndergroundRuin1,-2928,-2919,2822,2831

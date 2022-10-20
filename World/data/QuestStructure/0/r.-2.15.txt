@@ -1,0 +1,4 @@
+RLCraft_BasicSkeleton,-1490,-1490,7940,7940
+RLCraft_UndergroundRuin1,-1493,-1484,7937,7946
+DinosaurSkull,-1484,-1473,8104,8123
+PirateChest,-1396,-1392,8121,8125

@@ -1,0 +1,6 @@
+RLCraft_BasicCaveSpider,2010,2010,8581,8581
+RLCraft_UndergroundRuin1,2007,2016,8578,8587
+RLCraft_BasicCaveSpider,1990,1990,8509,8509
+RLCraft_UndergroundRuin1,1984,1993,8503,8512
+RLCraft_BasicWitch,1962,1962,8454,8454
+RLCraft_UndergroundRuin1,1956,1965,8448,8457

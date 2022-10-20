@@ -1,0 +1,17 @@
+StoneLeafMound,-6135,-6126,4151,4158
+StonePlantMound,-6131,-6126,4210,4215
+VillageHouseRich,-6080,-6065,4134,4153
+P_VillageFarmhouse,-6042,-6030,4111,4123
+StoneBoulder,-6058,-6049,4169,4178
+P_VillageLibrary,-6028,-6009,4157,4173
+VillageWoodMill,-6024,-6011,4134,4150
+SeasonsGreenhouse,-6005,-5993,4105,4115
+RLCraft_SmallUndergroundSkeleton,-5994,-5986,4143,4151
+LonePillars,-5951,-5944,4101,4258
+RLCraft_DecentWitch,-5894,-5894,4170,4170
+RLCraft_UndergroundRuin3,-5896,-5888,4167,4175
+SmallClockworkSite,-5888,-5869,4261,4283
+RLCraft_SmallUndergroundSkeleton,-5975,-5967,4316,4324
+RLCraft_4Towers,-6007,-5955,4293,4353
+RLCraft_DecentCaveSpider,-5820,-5820,4118,4118
+RLCraft_UndergroundRuin3,-5826,-5818,4113,4121

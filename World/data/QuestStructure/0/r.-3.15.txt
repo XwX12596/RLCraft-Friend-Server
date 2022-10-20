@@ -1,0 +1,13 @@
+StoneIceBoulder1,-1641,-1631,7927,7937
+IceThorn,-1785,-1770,7778,7804
+BrickHenge,-1816,-1800,7838,7854
+ShrineSmallAir,-1547,-1539,7736,7744
+RLCraft_SmallUndergroundSkeleton,-1806,-1798,7975,7983
+ShrineSmallAir,-1617,-1609,8043,8051
+StoneIceBoulder1,-1574,-1564,8045,8055
+StoneIceBoulder2,-1823,-1814,8045,8054
+IceThorn1,-1860,-1844,7720,7741
+StoneIceBoulder,-1649,-1640,8068,8078
+P_WitchDungeon,-1682,-1648,8065,8082
+StoneIceBoulder2,-1876,-1867,8094,8103
+StoneIceBoulder3,-1804,-1794,8183,8193

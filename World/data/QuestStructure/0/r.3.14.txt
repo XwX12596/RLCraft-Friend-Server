@@ -1,0 +1,13 @@
+StonePlantMound2,1671,1683,7192,7205
+RLCraft_SmallUndergroundSkeleton,1716,1724,7201,7209
+StonePlantMound4,1666,1673,7183,7190
+SmallWoodenCottage1,1811,1822,7204,7210
+StonePlantBoulder,1812,1822,7293,7303
+StoneLeafMound,1842,1849,7254,7263
+PeacefulCrypt,1730,1746,7374,7398
+StonePlantBoulder,1852,1862,7330,7340
+ShrineSmallFire,1732,1742,7401,7411
+RLCraft_SmallUndergroundSkeleton,1932,1940,7370,7378
+MeteorSite,2024,2054,7251,7266
+RLCraft_DecentSpider,2035,2035,7413,7413
+RLCraft_UndergroundRuin2,2033,2040,7408,7418

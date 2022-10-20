@@ -1,0 +1,9 @@
+StonePlantMound3,5252,5261,-6529,-6518
+StonePlantMound4,5232,5239,-6488,-6481
+BlazeSpawnerCrystal,5193,5199,-6526,-6520
+SmallWoodenCottage2,5177,5185,-6565,-6557
+RLCraft_DecentSpider,5205,5205,-6576,-6576
+RLCraft_UndergroundRuin3,5203,5211,-6581,-6573
+RLCraft_SmallUndergroundSkeleton,5127,5135,-6483,-6475
+BlazeSpawnerCrystal,5121,5127,-6451,-6445
+StonePlantBoulder,5139,5149,-6628,-6618

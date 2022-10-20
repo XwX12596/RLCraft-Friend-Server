@@ -1,0 +1,4 @@
+DinosaurSkeleton,927,973,-8402,-8393
+RLCraft_DecentSkeleton,860,860,-8457,-8457
+RLCraft_UndergroundRuin2,858,865,-8462,-8452
+SeasonsGreenhouse,1016,1026,-8460,-8448

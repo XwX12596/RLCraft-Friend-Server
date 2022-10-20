@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-5013,-5005,-1675,-1667
+RLCraft_DecentZombie,-4967,-4967,-1675,-1675
+RLCraft_UndergroundRuin2,-4972,-4965,-1680,-1670
+RLCraft_DecentCaveSpider,-4906,-4906,-1691,-1691
+RLCraft_UndergroundRuin2,-4911,-4904,-1696,-1686

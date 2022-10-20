@@ -1,0 +1,5 @@
+StonePlantMound,-2922,-2917,-1542,-1537
+StoneBoulder,-2960,-2951,-1573,-1564
+RLCraft_SmallUndergroundSkeleton,-2833,-2825,-1552,-1544
+SmallOutpost,-2758,-2728,-1701,-1679
+PeacefulCrypt,-2979,-2955,-1753,-1737

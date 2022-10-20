@@ -1,0 +1,6 @@
+UndergroundCrypt,4129,4157,-7016,-7002
+P_VillageFarmhouse,4158,4170,-7113,-7101
+RLCraft_BasicZombie,4166,4166,-7136,-7136
+RLCraft_UndergroundRuin1,4160,4169,-7142,-7133
+RLCraft_DecentCaveSpider,4191,4191,-7153,-7153
+RLCraft_UndergroundRuin3,4188,4196,-7159,-7151

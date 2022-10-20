@@ -1,0 +1,13 @@
+StonePlantMound4,3547,3554,-6014,-6007
+ClayWaterMound,3565,3572,-5968,-5960
+UnnaturalCrater,3542,3582,-6128,-6088
+StonePlantMound3,3501,3512,-5974,-5965
+RLCraft_SmallUndergroundSkeleton,3557,3565,-6145,-6137
+RLCraft_SmallUndergroundSkeleton,3436,3444,-6035,-6027
+StoneLeafMound,3418,3427,-6004,-5997
+StonePlantMound,3423,3428,-6100,-6095
+StonePlantMound3,3427,3436,-5911,-5900
+StonePlantMound4,3464,3471,-5880,-5873
+StatueTemple,3304,3375,-5826,-5724
+StonePlantMound2,3461,3474,-5829,-5817
+StonePlantBoulder,3231,3241,-5908,-5898

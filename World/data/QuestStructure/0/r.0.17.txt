@@ -1,0 +1,5 @@
+StoneLeafMound,232,241,8705,8712
+StonePlantMound4,312,319,8708,8715
+StonePlantMound2,295,308,8799,8811
+StonePlantBoulder,247,257,8793,8803
+StoneLeafMound,175,182,8778,8787

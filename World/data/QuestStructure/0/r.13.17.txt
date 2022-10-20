@@ -1,0 +1,14 @@
+RLCraft_DecentSkeleton,6867,6867,9152,9152
+RLCraft_UndergroundRuin3,6862,6870,9150,9158
+P_Crater,6941,7024,8960,9036
+RLCraft_DecentWitch,6890,6890,9212,9212
+RLCraft_UndergroundRuin2,6885,6895,9210,9217
+StonePlantMound,6902,6907,8950,8955
+RLCraft_DecentWitch,6806,6806,9038,9038
+RLCraft_UndergroundRuin3,6803,6811,9032,9040
+StonePlantMound1,7081,7087,8938,8944
+StonePlantMound,7097,7102,8950,8955
+StonePlantMound2,6930,6943,8859,8871
+StonePlantMound,7131,7136,8872,8877
+RLCraft_DecentSkeleton,7155,7155,9010,9010
+RLCraft_UndergroundRuin3,7150,7158,9008,9016
